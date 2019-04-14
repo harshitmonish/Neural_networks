@@ -31,12 +31,12 @@
 
 * Implemented a generic neural network architecture. Implemented the backpropagation algorithm to train the network. You should train the network using Stochastic Gradient Descent (SGD) where the batch size is an input.Used the sigmoid function as the activation unit.
 * Experimented with a neural network having a single hidden layer. 
-** Varied the number of hidden layer units from the set {5, 10, 15, 20, 25}. the learning rate is 0.1. 
-** Choosen a suitable stopping criterion.
-** Reported and ploted the accuracy on the training and the test sets, time taken to train the network. 
-** Ploted the metric on the Y axis against the number of hidden layer units on the X axis. 
-** Additionally, reported the confusion matrix for the test set, for each of the above parameter values. 
+* * Varied the number of hidden layer units from the set {5, 10, 15, 20, 25}. the learning rate is 0.1. 
+* * Choosen a suitable stopping criterion.
+* * Reported and ploted the accuracy on the training and the test sets, time taken to train the network. 
+* * Ploted the metric on the Y axis against the number of hidden layer units on the X axis. 
+* * Additionally, reported the confusion matrix for the test set, for each of the above parameter values. 
 * Experimented with a neural network having two hidden layers, each having the same number of neurons.
 * Used ReLU as the activation instead of the sigmoid function, only in the hidden layer(s).
-** ReLU is defined using the function: g(z) = max(0, z). 
-** Correctly implemented gradient descent by making use of sub-gradient at z = 0.
+* * ReLU is defined using the function: g(z) = max(0, z). 
+* * Correctly implemented gradient descent by making use of sub-gradient at z = 0.
