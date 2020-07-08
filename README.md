@@ -21,3 +21,8 @@ on the change in value of the error function.
 * * Next we will use ReLU as the activtion instead of the sigmoid function. ReLU is defined using the function: g(z) = max(0; z).we will still use sigmoid in the final (output) layer since we are dealing with Boolean output.
 * * Will Plot the decision boundary along with the test samples.
 * * Will Report and plot the accuracy on the training and the test sets, time taken to train the network. 
+
+# Author 
+ * [Harshit Monish](https://github.com/harshitmonish)
+ 
+## Course Project Under [Prof. Parag Singla](http://www.cse.iitd.ernet.in/~parags/)
